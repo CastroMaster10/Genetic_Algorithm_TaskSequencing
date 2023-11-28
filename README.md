@@ -1,0 +1,2 @@
+# Genetic_Algorithm_TaskSequencing
+genetic algorithm Task Sequencing
